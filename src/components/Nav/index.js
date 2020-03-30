@@ -14,6 +14,7 @@ function Nav() {
                 <div class="navbar-nav">
                     <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
                     <a class="nav-item nav-link" href="/">Jewelery</a>
+                    <a class="nav-item nav-link" href="/">Suly's Paintings</a>
                     <a class="nav-item nav-link" href="/">Contact</a>
                 </div>
             </div>
