@@ -29,3 +29,19 @@
 .img{
     background-size: cover;
 }
+
+.row{
+margin-bottom: 20px;
+}
+
+.pictures{
+  height: 450px;
+  width: 450px;
+}
+
+.background{
+  background-image: url(../fotos/table.jpg);
+  background-size: cover;
+  padding-bottom: 1px;
+}
+

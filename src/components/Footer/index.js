@@ -26,7 +26,7 @@ function Footer() {
             <div style={style}>
                 <footer class="page-footer font-small blue">
                     <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/"> Chalupitas.com</a>
+    <a href="https://mdbootstrap.com/"> Jose Castro</a>
                     </div>
                 </footer>
             </div>

@@ -1,0 +1,22 @@
+.card{
+width: 18rem;
+float: left;
+height: 435px;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+
+.sulycard{
+    margin-left: 100px;
+padding-bottom: 200px;
+}
+
+.card-img-top{
+    height: 286px;
+    width: 286px;
+}
+
+.one{
+    min-height: 900px;
+    height: 100%;
+}

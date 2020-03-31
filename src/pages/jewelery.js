@@ -1,13 +1,17 @@
-import React from 'react';
+import React from "react";
+import "./jewelery.css";
 
 function Jewelery() {
 
     return (
-      <div fluid>
-       
-      </div>
-    );
-  }
-
+        <div>
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                    <h1 class="display-4">Jewelery</h1>
+                </div>
+            </div>
+        </div>
+    )
+}
 
 export default Jewelery;
