@@ -40,7 +40,7 @@ function Home() {
               These images show the chalupitas how they are made.
           </div>
             <div class="col">
-              <div class="one">
+              <div>
                 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active" data-interval="3000">
@@ -66,7 +66,7 @@ function Home() {
         <div class="container">
           <div class="row">
             <div class="col">
-              <div class="one">
+              <div>
                 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active" data-interval="3000">
@@ -101,7 +101,7 @@ function Home() {
               These chalupitas are aready prepared and ready to eat, these are examples of what to add on top of them.
           </div>
             <div class="col">
-              <div class="one">
+              <div>
                 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active" data-interval="3000">
